@@ -1694,19 +1694,34 @@ body {
 .cid-qRomCgNIjT .mbr-section-btn B {
   color: #efefef;
 }
-.cid-qS9Id3rdT9 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/iotega-training-banner-812x1925.png");
+.cid-qSdVbiGKVV {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
-.cid-qS9Id3rdT9 H2 {
-  color: #6fba37;
+@media (min-width: 992px) {
+  .cid-qSdVbiGKVV .mbr-figure {
+    padding-right: 4rem;
+  }
 }
-.cid-qS9Id3rdT9 .mbr-section-subtitle {
-  color: #55b4d4;
+@media (max-width: 991px) {
+  .cid-qSdVbiGKVV .mbr-figure {
+    padding-bottom: 3rem;
+  }
 }
-.cid-qS9Id3rdT9 .mbr-section-subtitle B {
-  color: #b2ccd2;
+@media (max-width: 767px) {
+  .cid-qSdVbiGKVV .mbr-text {
+    text-align: center;
+  }
+}
+.cid-qSdVbiGKVV H3 {
+  text-align: center;
+  color: #232323;
+}
+.cid-qSdVbiGKVV .mbr-text,
+.cid-qSdVbiGKVV .mbr-section-btn {
+  text-align: center;
+  color: #232323;
 }
 .cid-qRp6r24OTx {
   padding-top: 75px;
@@ -1885,27 +1900,68 @@ body {
     -webkit-justify-content: center;
   }
 }
-.cid-qS9IhLKYzX {
+.cid-qSdW7YEm5u {
+  padding-top: 15px;
+  padding-bottom: 45px;
+  background: linear-gradient(0deg, #000000, #000000);
+}
+.cid-qSdW7YEm5u .mbr-iconfont-social {
+  font-size: 32px;
+  color: #0f7699;
+}
+.cid-qSdW7YEm5u .social-list a:focus {
+  text-decoration: none;
+}
+.cid-qSdW7YEm5u H2 {
+  color: #efefef;
+}
+.cid-qSdVoQIoRg {
   padding-top: 0px;
-  padding-bottom: 90px;
+  padding-bottom: 75px;
   background-color: #000000;
 }
-.cid-qS9IhLKYzX .mbr-text {
-  color: #767676;
+.cid-qSdVoQIoRg .socicon-bg-facebook {
+  background: #3e5b98;
+  color: #ffffff;
 }
-.cid-qS9IhLKYzX h4 {
-  text-align: center;
+.cid-qSdVoQIoRg .socicon-bg-twitter {
+  background: #4da7de;
+  color: #ffffff;
 }
-.cid-qS9IhLKYzX p {
-  text-align: center;
+.cid-qSdVoQIoRg .socicon-bg-googleplus {
+  background: #dd4b39;
+  color: #ffffff;
 }
-.cid-qS9IhLKYzX .card-img span {
-  font-size: 96px;
-  color: #149dcc;
+.cid-qSdVoQIoRg .socicon-bg-vkontakte {
+  background: #5a7fa6;
+  color: #ffffff;
 }
-.cid-qS9IhLKYzX .card-title,
-.cid-qS9IhLKYzX .card-img {
-  color: #cccccc;
+.cid-qSdVoQIoRg .socicon-bg-odnoklassniki {
+  background: #f48420;
+  color: #ffffff;
+}
+.cid-qSdVoQIoRg .socicon-bg-pinterest {
+  background: #c92619;
+  color: #ffffff;
+}
+.cid-qSdVoQIoRg .socicon-bg-mail {
+  background: #134785;
+  color: #ffffff;
+}
+.cid-qSdVoQIoRg .btn-social {
+  border: none !important;
+}
+.cid-qSdVoQIoRg [class^="socicon-"]:before,
+.cid-qSdVoQIoRg [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+@media (max-width: 767px) {
+  .cid-qSdVoQIoRg .btn {
+    font-size: 20px !important;
+  }
+}
+.cid-qSdVoQIoRg .mbr-section-title {
+  color: #efefef;
 }
 .cid-qS9CgLt6xL {
   padding-top: 30px;
@@ -2387,19 +2443,34 @@ body {
 .cid-qRphm6GOVz .card-img {
   color: #accb54;
 }
-.cid-qS9IOYgpEx {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/iotega-training-banner-812x1925.png");
+.cid-qSdX5CZIIL {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
-.cid-qS9IOYgpEx H2 {
-  color: #6fba37;
+@media (min-width: 992px) {
+  .cid-qSdX5CZIIL .mbr-figure {
+    padding-right: 4rem;
+  }
 }
-.cid-qS9IOYgpEx .mbr-section-subtitle {
-  color: #55b4d4;
+@media (max-width: 991px) {
+  .cid-qSdX5CZIIL .mbr-figure {
+    padding-bottom: 3rem;
+  }
 }
-.cid-qS9IOYgpEx .mbr-section-subtitle B {
-  color: #b2ccd2;
+@media (max-width: 767px) {
+  .cid-qSdX5CZIIL .mbr-text {
+    text-align: center;
+  }
+}
+.cid-qSdX5CZIIL H3 {
+  text-align: center;
+  color: #232323;
+}
+.cid-qSdX5CZIIL .mbr-text,
+.cid-qSdX5CZIIL .mbr-section-btn {
+  text-align: center;
+  color: #232323;
 }
 .cid-qS9C7EOqZT {
   padding-top: 60px;
@@ -2468,27 +2539,68 @@ body {
     -webkit-justify-content: center;
   }
 }
-.cid-qSdzGlrqJb {
+.cid-qSdX6u8J2E {
+  padding-top: 15px;
+  padding-bottom: 45px;
+  background: linear-gradient(0deg, #000000, #000000);
+}
+.cid-qSdX6u8J2E .mbr-iconfont-social {
+  font-size: 32px;
+  color: #0f7699;
+}
+.cid-qSdX6u8J2E .social-list a:focus {
+  text-decoration: none;
+}
+.cid-qSdX6u8J2E H2 {
+  color: #efefef;
+}
+.cid-qSdYLaBjtx {
   padding-top: 0px;
-  padding-bottom: 90px;
+  padding-bottom: 75px;
   background-color: #000000;
 }
-.cid-qSdzGlrqJb .mbr-text {
-  color: #767676;
+.cid-qSdYLaBjtx .socicon-bg-facebook {
+  background: #3e5b98;
+  color: #ffffff;
 }
-.cid-qSdzGlrqJb h4 {
-  text-align: center;
+.cid-qSdYLaBjtx .socicon-bg-twitter {
+  background: #4da7de;
+  color: #ffffff;
 }
-.cid-qSdzGlrqJb p {
-  text-align: center;
+.cid-qSdYLaBjtx .socicon-bg-googleplus {
+  background: #dd4b39;
+  color: #ffffff;
 }
-.cid-qSdzGlrqJb .card-img span {
-  font-size: 96px;
-  color: #149dcc;
+.cid-qSdYLaBjtx .socicon-bg-vkontakte {
+  background: #5a7fa6;
+  color: #ffffff;
 }
-.cid-qSdzGlrqJb .card-title,
-.cid-qSdzGlrqJb .card-img {
-  color: #cccccc;
+.cid-qSdYLaBjtx .socicon-bg-odnoklassniki {
+  background: #f48420;
+  color: #ffffff;
+}
+.cid-qSdYLaBjtx .socicon-bg-pinterest {
+  background: #c92619;
+  color: #ffffff;
+}
+.cid-qSdYLaBjtx .socicon-bg-mail {
+  background: #134785;
+  color: #ffffff;
+}
+.cid-qSdYLaBjtx .btn-social {
+  border: none !important;
+}
+.cid-qSdYLaBjtx [class^="socicon-"]:before,
+.cid-qSdYLaBjtx [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+@media (max-width: 767px) {
+  .cid-qSdYLaBjtx .btn {
+    font-size: 20px !important;
+  }
+}
+.cid-qSdYLaBjtx .mbr-section-title {
+  color: #efefef;
 }
 .cid-qS9C8iS2AV {
   padding-top: 30px;
@@ -2536,6 +2648,35 @@ body {
 .cid-qRtMnmo8GN .card-title,
 .cid-qRtMnmo8GN .card-img {
   color: #accb54;
+}
+.cid-qSdXdgh0De {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-qSdXdgh0De .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qSdXdgh0De .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qSdXdgh0De .mbr-text {
+    text-align: center;
+  }
+}
+.cid-qSdXdgh0De H3 {
+  text-align: center;
+  color: #232323;
+}
+.cid-qSdXdgh0De .mbr-text,
+.cid-qSdXdgh0De .mbr-section-btn {
+  text-align: center;
+  color: #232323;
 }
 .cid-qRZF2KiCRq {
   padding-top: 45px;
@@ -2905,20 +3046,6 @@ body {
 .cid-qRtPtvKQtP P {
   color: #232323;
 }
-.cid-qS9J1ZJDzj {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/iotega-training-banner-812x1925.png");
-}
-.cid-qS9J1ZJDzj H2 {
-  color: #6fba37;
-}
-.cid-qS9J1ZJDzj .mbr-section-subtitle {
-  color: #55b4d4;
-}
-.cid-qS9J1ZJDzj .mbr-section-subtitle B {
-  color: #b2ccd2;
-}
 .cid-qS9B9P4eNc {
   padding-top: 60px;
   padding-bottom: 0px;
@@ -2986,27 +3113,68 @@ body {
     -webkit-justify-content: center;
   }
 }
-.cid-qSdzMHoKbv {
+.cid-qSdXiybiMo {
+  padding-top: 15px;
+  padding-bottom: 45px;
+  background: linear-gradient(0deg, #000000, #000000);
+}
+.cid-qSdXiybiMo .mbr-iconfont-social {
+  font-size: 32px;
+  color: #0f7699;
+}
+.cid-qSdXiybiMo .social-list a:focus {
+  text-decoration: none;
+}
+.cid-qSdXiybiMo H2 {
+  color: #efefef;
+}
+.cid-qSdYIIz7rt {
   padding-top: 0px;
-  padding-bottom: 90px;
+  padding-bottom: 75px;
   background-color: #000000;
 }
-.cid-qSdzMHoKbv .mbr-text {
-  color: #767676;
+.cid-qSdYIIz7rt .socicon-bg-facebook {
+  background: #3e5b98;
+  color: #ffffff;
 }
-.cid-qSdzMHoKbv h4 {
-  text-align: center;
+.cid-qSdYIIz7rt .socicon-bg-twitter {
+  background: #4da7de;
+  color: #ffffff;
 }
-.cid-qSdzMHoKbv p {
-  text-align: center;
+.cid-qSdYIIz7rt .socicon-bg-googleplus {
+  background: #dd4b39;
+  color: #ffffff;
 }
-.cid-qSdzMHoKbv .card-img span {
-  font-size: 96px;
-  color: #149dcc;
+.cid-qSdYIIz7rt .socicon-bg-vkontakte {
+  background: #5a7fa6;
+  color: #ffffff;
 }
-.cid-qSdzMHoKbv .card-title,
-.cid-qSdzMHoKbv .card-img {
-  color: #cccccc;
+.cid-qSdYIIz7rt .socicon-bg-odnoklassniki {
+  background: #f48420;
+  color: #ffffff;
+}
+.cid-qSdYIIz7rt .socicon-bg-pinterest {
+  background: #c92619;
+  color: #ffffff;
+}
+.cid-qSdYIIz7rt .socicon-bg-mail {
+  background: #134785;
+  color: #ffffff;
+}
+.cid-qSdYIIz7rt .btn-social {
+  border: none !important;
+}
+.cid-qSdYIIz7rt [class^="socicon-"]:before,
+.cid-qSdYIIz7rt [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+@media (max-width: 767px) {
+  .cid-qSdYIIz7rt .btn {
+    font-size: 20px !important;
+  }
+}
+.cid-qSdYIIz7rt .mbr-section-title {
+  color: #efefef;
 }
 .cid-qS9BaXfVg8 {
   padding-top: 30px;
@@ -3836,19 +4004,34 @@ body {
 .cid-qRuEg8dT8H .card-img {
   color: #accb54;
 }
-.cid-qS9JapicEC {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/iotega-training-banner-812x1925.png");
+.cid-qSdXPjbfYM {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
-.cid-qS9JapicEC H2 {
-  color: #6fba37;
+@media (min-width: 992px) {
+  .cid-qSdXPjbfYM .mbr-figure {
+    padding-right: 4rem;
+  }
 }
-.cid-qS9JapicEC .mbr-section-subtitle {
-  color: #55b4d4;
+@media (max-width: 991px) {
+  .cid-qSdXPjbfYM .mbr-figure {
+    padding-bottom: 3rem;
+  }
 }
-.cid-qS9JapicEC .mbr-section-subtitle B {
-  color: #b2ccd2;
+@media (max-width: 767px) {
+  .cid-qSdXPjbfYM .mbr-text {
+    text-align: center;
+  }
+}
+.cid-qSdXPjbfYM H3 {
+  text-align: center;
+  color: #232323;
+}
+.cid-qSdXPjbfYM .mbr-text,
+.cid-qSdXPjbfYM .mbr-section-btn {
+  text-align: center;
+  color: #232323;
 }
 .cid-qRuT7L5hvH {
   padding-top: 90px;
@@ -4009,27 +4192,68 @@ body {
     -webkit-justify-content: center;
   }
 }
-.cid-qSdzU1Amrs {
+.cid-qSdXTis0uf {
+  padding-top: 15px;
+  padding-bottom: 45px;
+  background: linear-gradient(0deg, #000000, #000000);
+}
+.cid-qSdXTis0uf .mbr-iconfont-social {
+  font-size: 32px;
+  color: #0f7699;
+}
+.cid-qSdXTis0uf .social-list a:focus {
+  text-decoration: none;
+}
+.cid-qSdXTis0uf H2 {
+  color: #efefef;
+}
+.cid-qSdYAqy2V3 {
   padding-top: 0px;
-  padding-bottom: 90px;
+  padding-bottom: 75px;
   background-color: #000000;
 }
-.cid-qSdzU1Amrs .mbr-text {
-  color: #767676;
+.cid-qSdYAqy2V3 .socicon-bg-facebook {
+  background: #3e5b98;
+  color: #ffffff;
 }
-.cid-qSdzU1Amrs h4 {
-  text-align: center;
+.cid-qSdYAqy2V3 .socicon-bg-twitter {
+  background: #4da7de;
+  color: #ffffff;
 }
-.cid-qSdzU1Amrs p {
-  text-align: center;
+.cid-qSdYAqy2V3 .socicon-bg-googleplus {
+  background: #dd4b39;
+  color: #ffffff;
 }
-.cid-qSdzU1Amrs .card-img span {
-  font-size: 96px;
-  color: #149dcc;
+.cid-qSdYAqy2V3 .socicon-bg-vkontakte {
+  background: #5a7fa6;
+  color: #ffffff;
 }
-.cid-qSdzU1Amrs .card-title,
-.cid-qSdzU1Amrs .card-img {
-  color: #cccccc;
+.cid-qSdYAqy2V3 .socicon-bg-odnoklassniki {
+  background: #f48420;
+  color: #ffffff;
+}
+.cid-qSdYAqy2V3 .socicon-bg-pinterest {
+  background: #c92619;
+  color: #ffffff;
+}
+.cid-qSdYAqy2V3 .socicon-bg-mail {
+  background: #134785;
+  color: #ffffff;
+}
+.cid-qSdYAqy2V3 .btn-social {
+  border: none !important;
+}
+.cid-qSdYAqy2V3 [class^="socicon-"]:before,
+.cid-qSdYAqy2V3 [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+@media (max-width: 767px) {
+  .cid-qSdYAqy2V3 .btn {
+    font-size: 20px !important;
+  }
+}
+.cid-qSdYAqy2V3 .mbr-section-title {
+  color: #efefef;
 }
 .cid-qS9JmihzND {
   padding-top: 30px;
@@ -4557,27 +4781,20 @@ body {
     -webkit-justify-content: center;
   }
 }
-.cid-qSdA7RkuJI {
-  padding-top: 0px;
-  padding-bottom: 90px;
-  background-color: #000000;
+.cid-qSdY54yMjI {
+  padding-top: 15px;
+  padding-bottom: 45px;
+  background: linear-gradient(0deg, #000000, #000000);
 }
-.cid-qSdA7RkuJI .mbr-text {
-  color: #767676;
+.cid-qSdY54yMjI .mbr-iconfont-social {
+  font-size: 32px;
+  color: #0f7699;
 }
-.cid-qSdA7RkuJI h4 {
-  text-align: center;
+.cid-qSdY54yMjI .social-list a:focus {
+  text-decoration: none;
 }
-.cid-qSdA7RkuJI p {
-  text-align: center;
-}
-.cid-qSdA7RkuJI .card-img span {
-  font-size: 96px;
-  color: #149dcc;
-}
-.cid-qSdA7RkuJI .card-title,
-.cid-qSdA7RkuJI .card-img {
-  color: #cccccc;
+.cid-qSdY54yMjI H2 {
+  color: #efefef;
 }
 .cid-qS9K2ikhSj {
   padding-top: 30px;
@@ -5257,27 +5474,68 @@ body {
     -webkit-justify-content: center;
   }
 }
-.cid-qSdAeZGgY9 {
+.cid-qSdYamT5da {
+  padding-top: 15px;
+  padding-bottom: 45px;
+  background: linear-gradient(0deg, #000000, #000000);
+}
+.cid-qSdYamT5da .mbr-iconfont-social {
+  font-size: 32px;
+  color: #0f7699;
+}
+.cid-qSdYamT5da .social-list a:focus {
+  text-decoration: none;
+}
+.cid-qSdYamT5da H2 {
+  color: #efefef;
+}
+.cid-qSdYwezlM6 {
   padding-top: 0px;
-  padding-bottom: 90px;
+  padding-bottom: 75px;
   background-color: #000000;
 }
-.cid-qSdAeZGgY9 .mbr-text {
-  color: #767676;
+.cid-qSdYwezlM6 .socicon-bg-facebook {
+  background: #3e5b98;
+  color: #ffffff;
 }
-.cid-qSdAeZGgY9 h4 {
-  text-align: center;
+.cid-qSdYwezlM6 .socicon-bg-twitter {
+  background: #4da7de;
+  color: #ffffff;
 }
-.cid-qSdAeZGgY9 p {
-  text-align: center;
+.cid-qSdYwezlM6 .socicon-bg-googleplus {
+  background: #dd4b39;
+  color: #ffffff;
 }
-.cid-qSdAeZGgY9 .card-img span {
-  font-size: 96px;
-  color: #149dcc;
+.cid-qSdYwezlM6 .socicon-bg-vkontakte {
+  background: #5a7fa6;
+  color: #ffffff;
 }
-.cid-qSdAeZGgY9 .card-title,
-.cid-qSdAeZGgY9 .card-img {
-  color: #cccccc;
+.cid-qSdYwezlM6 .socicon-bg-odnoklassniki {
+  background: #f48420;
+  color: #ffffff;
+}
+.cid-qSdYwezlM6 .socicon-bg-pinterest {
+  background: #c92619;
+  color: #ffffff;
+}
+.cid-qSdYwezlM6 .socicon-bg-mail {
+  background: #134785;
+  color: #ffffff;
+}
+.cid-qSdYwezlM6 .btn-social {
+  border: none !important;
+}
+.cid-qSdYwezlM6 [class^="socicon-"]:before,
+.cid-qSdYwezlM6 [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+@media (max-width: 767px) {
+  .cid-qSdYwezlM6 .btn {
+    font-size: 20px !important;
+  }
+}
+.cid-qSdYwezlM6 .mbr-section-title {
+  color: #efefef;
 }
 .cid-qS9v0iFkUl {
   padding-top: 30px;
@@ -5852,27 +6110,20 @@ body {
     -webkit-justify-content: center;
   }
 }
-.cid-qSdAkq0FWY {
-  padding-top: 0px;
-  padding-bottom: 90px;
-  background-color: #000000;
+.cid-qSdYk8kNqh {
+  padding-top: 15px;
+  padding-bottom: 45px;
+  background: linear-gradient(0deg, #000000, #000000);
 }
-.cid-qSdAkq0FWY .mbr-text {
-  color: #767676;
+.cid-qSdYk8kNqh .mbr-iconfont-social {
+  font-size: 32px;
+  color: #0f7699;
 }
-.cid-qSdAkq0FWY h4 {
-  text-align: center;
+.cid-qSdYk8kNqh .social-list a:focus {
+  text-decoration: none;
 }
-.cid-qSdAkq0FWY p {
-  text-align: center;
-}
-.cid-qSdAkq0FWY .card-img span {
-  font-size: 96px;
-  color: #149dcc;
-}
-.cid-qSdAkq0FWY .card-title,
-.cid-qSdAkq0FWY .card-img {
-  color: #cccccc;
+.cid-qSdYk8kNqh H2 {
+  color: #efefef;
 }
 .cid-qS9L2ItTq2 {
   padding-top: 30px;
@@ -6400,27 +6651,20 @@ body {
     -webkit-justify-content: center;
   }
 }
-.cid-qSdzZzLbZc {
-  padding-top: 0px;
-  padding-bottom: 90px;
-  background-color: #000000;
+.cid-qSdXZx9qDA {
+  padding-top: 15px;
+  padding-bottom: 45px;
+  background: linear-gradient(0deg, #000000, #000000);
 }
-.cid-qSdzZzLbZc .mbr-text {
-  color: #767676;
+.cid-qSdXZx9qDA .mbr-iconfont-social {
+  font-size: 32px;
+  color: #0f7699;
 }
-.cid-qSdzZzLbZc h4 {
-  text-align: center;
+.cid-qSdXZx9qDA .social-list a:focus {
+  text-decoration: none;
 }
-.cid-qSdzZzLbZc p {
-  text-align: center;
-}
-.cid-qSdzZzLbZc .card-img span {
-  font-size: 96px;
-  color: #149dcc;
-}
-.cid-qSdzZzLbZc .card-title,
-.cid-qSdzZzLbZc .card-img {
-  color: #cccccc;
+.cid-qSdXZx9qDA H2 {
+  color: #efefef;
 }
 .cid-qS9JKGHL1C {
   padding-top: 30px;
@@ -6853,19 +7097,34 @@ body {
     text-align: center;
   }
 }
-.cid-qS9CoW84U3 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/iotega-training-banner-812x1925.png");
+.cid-qSdRvmXrjH {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
-.cid-qS9CoW84U3 H2 {
-  color: #6fba37;
+@media (min-width: 992px) {
+  .cid-qSdRvmXrjH .mbr-figure {
+    padding-right: 4rem;
+  }
 }
-.cid-qS9CoW84U3 .mbr-section-subtitle {
-  color: #55b4d4;
+@media (max-width: 991px) {
+  .cid-qSdRvmXrjH .mbr-figure {
+    padding-bottom: 3rem;
+  }
 }
-.cid-qS9CoW84U3 .mbr-section-subtitle B {
-  color: #b2ccd2;
+@media (max-width: 767px) {
+  .cid-qSdRvmXrjH .mbr-text {
+    text-align: center;
+  }
+}
+.cid-qSdRvmXrjH H3 {
+  text-align: center;
+  color: #232323;
+}
+.cid-qSdRvmXrjH .mbr-text,
+.cid-qSdRvmXrjH .mbr-section-btn {
+  text-align: center;
+  color: #232323;
 }
 .cid-qS9CpBss0I {
   padding-top: 60px;
@@ -6934,27 +7193,68 @@ body {
     -webkit-justify-content: center;
   }
 }
-.cid-qSdzwiJGWp {
+.cid-qSdX0payXM {
+  padding-top: 15px;
+  padding-bottom: 45px;
+  background: linear-gradient(0deg, #000000, #000000);
+}
+.cid-qSdX0payXM .mbr-iconfont-social {
+  font-size: 32px;
+  color: #0f7699;
+}
+.cid-qSdX0payXM .social-list a:focus {
+  text-decoration: none;
+}
+.cid-qSdX0payXM H2 {
+  color: #efefef;
+}
+.cid-qSdYOBp9yh {
   padding-top: 0px;
-  padding-bottom: 90px;
+  padding-bottom: 75px;
   background-color: #000000;
 }
-.cid-qSdzwiJGWp .mbr-text {
-  color: #767676;
+.cid-qSdYOBp9yh .socicon-bg-facebook {
+  background: #3e5b98;
+  color: #ffffff;
 }
-.cid-qSdzwiJGWp h4 {
-  text-align: center;
+.cid-qSdYOBp9yh .socicon-bg-twitter {
+  background: #4da7de;
+  color: #ffffff;
 }
-.cid-qSdzwiJGWp p {
-  text-align: center;
+.cid-qSdYOBp9yh .socicon-bg-googleplus {
+  background: #dd4b39;
+  color: #ffffff;
 }
-.cid-qSdzwiJGWp .card-img span {
-  font-size: 96px;
-  color: #149dcc;
+.cid-qSdYOBp9yh .socicon-bg-vkontakte {
+  background: #5a7fa6;
+  color: #ffffff;
 }
-.cid-qSdzwiJGWp .card-title,
-.cid-qSdzwiJGWp .card-img {
-  color: #cccccc;
+.cid-qSdYOBp9yh .socicon-bg-odnoklassniki {
+  background: #f48420;
+  color: #ffffff;
+}
+.cid-qSdYOBp9yh .socicon-bg-pinterest {
+  background: #c92619;
+  color: #ffffff;
+}
+.cid-qSdYOBp9yh .socicon-bg-mail {
+  background: #134785;
+  color: #ffffff;
+}
+.cid-qSdYOBp9yh .btn-social {
+  border: none !important;
+}
+.cid-qSdYOBp9yh [class^="socicon-"]:before,
+.cid-qSdYOBp9yh [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+@media (max-width: 767px) {
+  .cid-qSdYOBp9yh .btn {
+    font-size: 20px !important;
+  }
+}
+.cid-qSdYOBp9yh .mbr-section-title {
+  color: #efefef;
 }
 .cid-qS9CqFPhMC {
   padding-top: 30px;
