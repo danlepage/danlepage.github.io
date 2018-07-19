@@ -8484,6 +8484,48 @@ body {
 .cid-qYg6kcntwh H1 {
   text-align: center;
 }
+.cid-qYh5h3gR3l {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/forfaits-jinov-1144x773.jpg");
+}
+.cid-qYh5h3gR3l .nav-tabs {
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  border-bottom: none;
+}
+.cid-qYh5h3gR3l .nav-tabs .nav-link {
+  box-sizing: border-box;
+  color: #232323;
+  font-style: normal;
+  font-weight: 500;
+  border-radius: 3px;
+  border: 1px solid #232323;
+  padding: 1rem 3rem;
+  margin: 0.4rem .8rem !important;
+  transition: all .5s;
+}
+.cid-qYh5h3gR3l .nav-tabs .nav-link:hover {
+  background-color: #accb54;
+}
+.cid-qYh5h3gR3l .nav-tabs .nav-link.active {
+  font-weight: 500;
+  color: #000000;
+  font-style: normal;
+  border: none;
+  background: #accb54;
+}
+.cid-qYh5h3gR3l .nav-tabs .nav-link.active:hover {
+  border: none;
+}
+.cid-qYh5h3gR3l p {
+  color: #232323;
+}
+.cid-qYh5h3gR3l .mbr-text {
+  text-align: center;
+}
 .cid-qYg44LbysO {
   padding-top: 45px;
   padding-bottom: 120px;
