@@ -7576,7 +7576,7 @@ body {
   color: #efefef;
 }
 .cid-qSFi9QonoZ {
-  padding-top: 0px;
+  padding-top: 15px;
   padding-bottom: 75px;
   background-color: #000000;
 }
@@ -8457,43 +8457,16 @@ body {
 .cid-qYfP6x9kb2 .dropdown-item:hover {
   color: #cccccc !important;
 }
-.cid-qYg6kcntwh {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-4-1620x1080.jpg");
-}
-.cid-qYg6kcntwh .form-container {
-  transition: all .2s;
-  border: 1px solid #ffffff;
-  padding: 1rem;
-  background: linear-gradient(#accb54, #ffffff);
-  border: none;
-}
-.cid-qYg6kcntwh .input-group-btn {
-  justify-content: center;
-}
-@media (min-width: 768px) {
-  .cid-qYg6kcntwh .content-container {
-    padding-right: 5rem;
-  }
-}
-.cid-qYg6kcntwh .mbr-text,
-.cid-qYg6kcntwh .mbr-section-btn {
-  text-align: center;
-}
-.cid-qYg6kcntwh H1 {
-  text-align: center;
-}
 .cid-qYham49IUg {
-  padding-top: 60px;
+  padding-top: 135px;
   padding-bottom: 60px;
   background-image: url("../../../assets/images/forfaits-jinov-1144x773.jpg");
 }
 .cid-qYham49IUg .mbr-section-text {
-  color: #232323;
+  color: #c1c1c1;
 }
 .cid-qYham49IUg .mbr-section-subtitle {
-  color: #000000;
+  color: #cccccc;
 }
 .cid-qYham49IUg .tabcont {
   -webkit-justify-content: center;
@@ -8522,14 +8495,14 @@ body {
 }
 .cid-qYham49IUg .nav-tabs .nav-link {
   box-sizing: border-box;
-  color: #232323;
+  color: #efefef;
   font-style: normal;
   font-weight: 500;
   border-radius: 3px;
   padding: 1rem 3rem;
   margin: 0.4rem .8rem !important;
   transition: color .3s;
-  border: 2px solid #232323;
+  border: 2px solid #efefef;
 }
 .cid-qYham49IUg .nav-tabs .nav-link:hover {
   background: #accb54;
@@ -8542,6 +8515,42 @@ body {
 }
 .cid-qYham49IUg .nav-tabs .nav-link.active:hover {
   border: 2px solid #accb54;
+}
+.cid-qYham49IUg H2 {
+  color: #c1c1c1;
+}
+.cid-qYham49IUg .mbr-section-subtitle B {
+  color: #cccccc;
+}
+.cid-qYham49IUg H4 {
+  color: #c1c1c1;
+}
+.cid-qYg6kcntwh {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
+}
+.cid-qYg6kcntwh .form-container {
+  transition: all .2s;
+  border: 1px solid #ffffff;
+  padding: 1rem;
+  background: linear-gradient(#accb54, #ffffff);
+  border: none;
+}
+.cid-qYg6kcntwh .input-group-btn {
+  justify-content: center;
+}
+@media (min-width: 768px) {
+  .cid-qYg6kcntwh .content-container {
+    padding-right: 5rem;
+  }
+}
+.cid-qYg6kcntwh .mbr-text,
+.cid-qYg6kcntwh .mbr-section-btn {
+  text-align: center;
+}
+.cid-qYg6kcntwh H1 {
+  text-align: center;
 }
 .cid-qYfP6DAF3M {
   padding-top: 60px;
